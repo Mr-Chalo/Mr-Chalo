@@ -1,3 +1,8 @@
+# Typing Effect Example
+
+To see the typing effect in action, view this README file in a browser that supports HTML and JavaScript rendering.
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
