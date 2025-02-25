@@ -3,14 +3,9 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">
 <img src ="https://media0.giphy.com/media/VaeQTfWTXqtLfSLPmG/giphy.gif?cid=6c09b952rr2boz4ih98i7szrnm9p4cjky28o0cieqzincrwc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
 </h2>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>
-<em>Technical Lead at <a href="https://chalo2k.netify.app/">mrchalo.net
-</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em>
-</p>
+<p><em>Technical Lead at <a href="https://chalo2k.netify.app/">mrchalo.net</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 [![Twitter
  Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
