@@ -1,7 +1,7 @@
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello 👋.I Am MrChalo the student, the ptogrammer, the web cloner,  
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="60">
-https://media0.giphy.com/media/VaeQTfWTXqtLfSLPmG/giphy.gif?cid=6c09b952rr2boz4ih98i7szrnm9p4cjky28o0cieqzincrwc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s
+<img src ="https://media0.giphy.com/media/VaeQTfWTXqtLfSLPmG/giphy.gif?cid=6c09b952rr2boz4ih98i7szrnm9p4cjky28o0cieqzincrwc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
