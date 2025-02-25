@@ -1,4 +1,27 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><h2>👋 Hi, my name is MrChalo<span id="typing-text"></span></h2>
+
+<script>
+    const texts = ["A Web Student", "A Web Cloner", "A Programmer", "A TickToker"];
+    let count = 0;
+    let index = 0;
+    let currentText = '';
+    let letter = '';
+
+    (function type() {
+        if (count === texts.length) {
+            count = 0;
+        }
+        currentText = texts[count];
+        letter = currentText.slice(0, ++index);
+
+        document.getElementById('typing-text').textContent = letter;
+        if (letter.length === currentText.length) {
+            count++;
+            index = 0;
+        }
+        setTimeout(type, 200);
+    }());
+</script> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
