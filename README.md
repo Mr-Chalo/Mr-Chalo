@@ -1,6 +1,6 @@
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello 👋.I Am MrChalo the student, the ptogrammer, the web cloner,  
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
