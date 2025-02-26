@@ -1,6 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! My name is MrChalo<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://chalo2k.netlify.com/">Fliki.AI
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -68,9 +68,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C762%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C769%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-854-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-864-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -113,17 +113,17 @@ Sunday                   978 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               45 hrs 19 mins      ████████████████████████░   97.64 % 
-TSConfig                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript               44 hrs 35 mins      ████████████████████████░   97.33 % 
+TSConfig                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-WebStorm                 46 hrs 25 mins      █████████████████████████   100.00 % 
+WebStorm                 45 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      46 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +139,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 00:31:42 UTC
+ Last Updated on 26/02/2025 00:31:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
