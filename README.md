@@ -30,13 +30,13 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["TypeScript", "Javascript", "Html", "Css"],
+    askMeAbout: ["web dev", "Web clone", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            uiLibraries: ["Material UI", "Ant Design"],
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
